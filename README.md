@@ -72,8 +72,11 @@ metadetector-master/data/output/
 ## Results
 
 Our model achieves the following performance :
+
 PHEME and PHEME-structure ![image](image/result_PHEME.png)
-Twitter15 and Twitter16 ![image](image/result_Twitter.png)
+
+Twitter15 and Twitter16 ![image](image/result_Twitter.png)  
+
 Twitter15-structure and Twitter16-structure ![image](image/result_Twitter15-structure.png) ![image](image/result_Twitter16-structure.png)
 
 
