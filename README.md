@@ -53,12 +53,12 @@ python MetaDetector_Twitter_data.py train event Twitter15
 
 Our pretrained models here:
 BERT
-Download from 'https://www.aliyundrive.com/s/S9RLpi5fERM' and place the file in BERT's PHEME into Improving-Rumor-Detection-with-User-Comments-main/PHEME-RNR
-Download from 'https://www.aliyundrive.com/s/S9RLpi5fERM' and the file in BERT's Twitter into Improving-Rumor-Detection-with-User-Comments-main/Twitter-RNR
+Download from 'https://drive.google.com/file/d/1yHpYyHgN1kLXF1Y_kWyr8Bo7_YvdzC9d/view?usp=drive_link' and place the file in BERT's PHEME into Improving-Rumor-Detection-with-User-Comments-main/PHEME-RNR
+Download from 'https://drive.google.com/file/d/1yHpYyHgN1kLXF1Y_kWyr8Bo7_YvdzC9d/view?usp=drive_link' and the file in BERT's Twitter into Improving-Rumor-Detection-with-User-Comments-main/Twitter-RNR
 
 
 EANN
-Download from 'https://www.aliyundrive.com/s/S9RLpi5fERM' and place the files in EANN into EANN-KDD18-master/data/output/
+Download from 'https://drive.google.com/file/d/1yHpYyHgN1kLXF1Y_kWyr8Bo7_YvdzC9d/view?usp=drive_link' and place the files in EANN into EANN-KDD18-master/data/output/
 EANN-KDD18-master/data/output/
 
 GACL
@@ -74,7 +74,7 @@ metadetector-master/data/output/
 Our model achieves the following performance :
 PHEME and PHEME-structure ![image](image/result_PHEME.png)
 Twitter15 and Twitter16 ![image](image/result_Twitter.png)
-Twitter15-structure and Twitter16-structure ![image](image/result_Twitter15-structure.png) [image](image/result_Twitter16-structure.png)
+Twitter15-structure and Twitter16-structure ![image](image/result_Twitter15-structure.png) ![image](image/result_Twitter16-structure.png)
 
 
 
