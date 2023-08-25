@@ -53,12 +53,12 @@ python MetaDetector_Twitter_data.py train event Twitter15
 
 Our pretrained models here:
 BERT
-Download from 'https://drive.google.com/file/d/1yHpYyHgN1kLXF1Y_kWyr8Bo7_YvdzC9d/view?usp=drive_link' and place the file in BERT's PHEME into Improving-Rumor-Detection-with-User-Comments-main/PHEME-RNR
-Download from 'https://drive.google.com/file/d/1yHpYyHgN1kLXF1Y_kWyr8Bo7_YvdzC9d/view?usp=drive_link' and the file in BERT's Twitter into Improving-Rumor-Detection-with-User-Comments-main/Twitter-RNR
+Download from 'https://drive.google.com/file/d/1yHpYyHgN1kLXF1Y_kWyr8Bo7_YvdzC9d/view?usp=sharing' and place the file in BERT's PHEME into Improving-Rumor-Detection-with-User-Comments-main/PHEME-RNR
+Download from 'https://drive.google.com/file/d/1yHpYyHgN1kLXF1Y_kWyr8Bo7_YvdzC9d/view?usp=sharing' and the file in BERT's Twitter into Improving-Rumor-Detection-with-User-Comments-main/Twitter-RNR
 
 
 EANN
-Download from 'https://drive.google.com/file/d/1yHpYyHgN1kLXF1Y_kWyr8Bo7_YvdzC9d/view?usp=drive_link' and place the files in EANN into EANN-KDD18-master/data/output/
+Download from 'https://drive.google.com/file/d/1yHpYyHgN1kLXF1Y_kWyr8Bo7_YvdzC9d/view?usp=sharing' and place the files in EANN into EANN-KDD18-master/data/output/
 EANN-KDD18-master/data/output/
 
 GACL
